@@ -2,7 +2,7 @@
 Multimedia portfolio showcasing video editing, graphic design, and animation projects
 
  ## About Me
- I am a 4th-year Entertainment and Multimedia Computing student specializing in Digital Animation Technology. I am skilled in video editing, graphic design, animation, and photography.
+  I am a 4th-year Entertainment and Multimedia Computing student specializing in Digital Animation Technology. I am skilled in video editing, graphic design, animation, and photography.
 
 ## Projects
 
